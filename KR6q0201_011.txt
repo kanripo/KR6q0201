@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:47:44.346555
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:36
 #+TITLE: 石雨禪師法檀
 #+PROPERTY: CBETA_ID J27nB190
 #+PROPERTY: ID KR6q0201
@@ -13,7 +13,7 @@
  石雨禪師法檀卷第十一¶
 嗣法小師淨柱編¶
 
-頌古¶
+* 頌古¶
 
 「世尊初生(二首)。」¶
 
